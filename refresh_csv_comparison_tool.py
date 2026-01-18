@@ -160,7 +160,7 @@ with st.sidebar:
         )
         st.markdown("""
         **How to run locally:**
-        1. Install Python.
+        1. Install Python (from https://www.python.org/downloads/).
         2. `pip install streamlit pandas`
         3. `streamlit run local_csv_tool.py`
         """)
